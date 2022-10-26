@@ -1,0 +1,296 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon4131.ttf?8959e095fcd1f7bbe449ba59ecb8938a") format("truetype"),
+url("flaticon4131.woff?8959e095fcd1f7bbe449ba59ecb8938a") format("woff"),
+url("flaticon4131.woff2?8959e095fcd1f7bbe449ba59ecb8938a") format("woff2"),
+url("flaticon4131.eot?8959e095fcd1f7bbe449ba59ecb8938a#iefix") format("embedded-opentype"),
+url("flaticon4131.html?8959e095fcd1f7bbe449ba59ecb8938a#flaticon") format("svg");
+}
+
+i[class^="thsn-logisto-icon-"]:before, i[class*=" thsn-logisto-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.thsn-logisto-icon-departures:before {
+    content: "\f101";
+}
+.thsn-logisto-icon-shield:before {
+    content: "\f102";
+}
+.thsn-logisto-icon-quality:before {
+    content: "\f103";
+}
+.thsn-logisto-icon-clockwise:before {
+    content: "\f104";
+}
+.thsn-logisto-icon-train:before {
+    content: "\f105";
+}
+.thsn-logisto-icon-warehouse:before {
+    content: "\f106";
+}
+.thsn-logisto-icon-umbrella:before {
+    content: "\f107";
+}
+.thsn-logisto-icon-package:before {
+    content: "\f108";
+}
+.thsn-logisto-icon-ship:before {
+    content: "\f109";
+}
+.thsn-logisto-icon-pin:before {
+    content: "\f10a";
+}
+.thsn-logisto-icon-hook:before {
+    content: "\f10b";
+}
+.thsn-logisto-icon-worldwide:before {
+    content: "\f10c";
+}
+.thsn-logisto-icon-worldwide-1:before {
+    content: "\f10d";
+}
+.thsn-logisto-icon-route:before {
+    content: "\f10e";
+}
+.thsn-logisto-icon-box:before {
+    content: "\f10f";
+}
+.thsn-logisto-icon-package-1:before {
+    content: "\f110";
+}
+.thsn-logisto-icon-calendar:before {
+    content: "\f111";
+}
+.thsn-logisto-icon-search:before {
+    content: "\f112";
+}
+.thsn-logisto-icon-pickup-truck:before {
+    content: "\f113";
+}
+.thsn-logisto-icon-map:before {
+    content: "\f114";
+}
+.thsn-logisto-icon-stopclock:before {
+    content: "\f115";
+}
+.thsn-logisto-icon-fragile:before {
+    content: "\f116";
+}
+.thsn-logisto-icon-hourglass:before {
+    content: "\f117";
+}
+.thsn-logisto-icon-package-2:before {
+    content: "\f118";
+}
+.thsn-logisto-icon-invoice:before {
+    content: "\f119";
+}
+.thsn-logisto-icon-courier:before {
+    content: "\f11a";
+}
+.thsn-logisto-icon-tag:before {
+    content: "\f11b";
+}
+.thsn-logisto-icon-package-3:before {
+    content: "\f11c";
+}
+.thsn-logisto-icon-airplane:before {
+    content: "\f11d";
+}
+.thsn-logisto-icon-trolley:before {
+    content: "\f11e";
+}
+.thsn-logisto-icon-mailbox:before {
+    content: "\f11f";
+}
+.thsn-logisto-icon-mail-send:before {
+    content: "\f120";
+}
+.thsn-logisto-icon-delivery-delay:before {
+    content: "\f121";
+}
+.thsn-logisto-icon-box-1:before {
+    content: "\f122";
+}
+.thsn-logisto-icon-open-box:before {
+    content: "\f123";
+}
+.thsn-logisto-icon-ship-1:before {
+    content: "\f124";
+}
+.thsn-logisto-icon-telephone:before {
+    content: "\f125";
+}
+.thsn-logisto-icon-worldwide-2:before {
+    content: "\f126";
+}
+.thsn-logisto-icon-elevator:before {
+    content: "\f127";
+}
+.thsn-logisto-icon-delivery-truck:before {
+    content: "\f128";
+}
+.thsn-logisto-icon-trolley-1:before {
+    content: "\f129";
+}
+.thsn-logisto-icon-credit-cards:before {
+    content: "\f12a";
+}
+.thsn-logisto-icon-crane:before {
+    content: "\f12b";
+}
+.thsn-logisto-icon-cargo:before {
+    content: "\f12c";
+}
+.thsn-logisto-icon-crane-1:before {
+    content: "\f12d";
+}
+.thsn-logisto-icon-delivery-man:before {
+    content: "\f12e";
+}
+.thsn-logisto-icon-forklift:before {
+    content: "\f12f";
+}
+.thsn-logisto-icon-map-1:before {
+    content: "\f130";
+}
+.thsn-logisto-icon-support:before {
+    content: "\f131";
+}
+.thsn-logisto-icon-worldwide-3:before {
+    content: "\f132";
+}
+.thsn-logisto-icon-box-2:before {
+    content: "\f133";
+}
+.thsn-logisto-icon-placeholder:before {
+    content: "\f134";
+}
+.thsn-logisto-icon-target:before {
+    content: "\f135";
+}
+.thsn-logisto-icon-delivery-man-1:before {
+    content: "\f136";
+}
+.thsn-logisto-icon-carriage:before {
+    content: "\f137";
+}
+.thsn-logisto-icon-signs:before {
+    content: "\f138";
+}
+.thsn-logisto-icon-parachute-box:before {
+    content: "\f139";
+}
+.thsn-logisto-icon-search-worldwide:before {
+    content: "\f13a";
+}
+.thsn-logisto-icon-switch:before {
+    content: "\f13b";
+}
+.thsn-logisto-icon-truck-delay:before {
+    content: "\f13c";
+}
+.thsn-logisto-icon-24-hours:before {
+    content: "\f13d";
+}
+.thsn-logisto-icon-clock:before {
+    content: "\f13e";
+}
+.thsn-logisto-icon-check-list:before {
+    content: "\f13f";
+}
+.thsn-logisto-icon-qr-code:before {
+    content: "\f140";
+}
+.thsn-logisto-icon-truck:before {
+    content: "\f141";
+}
+.thsn-logisto-icon-stamp:before {
+    content: "\f142";
+}
+.thsn-logisto-icon-oil-barrel:before {
+    content: "\f143";
+}
+.thsn-logisto-icon-keep-up:before {
+    content: "\f144";
+}
+.thsn-logisto-icon-crane-2:before {
+    content: "\f145";
+}
+.thsn-logisto-icon-transfer:before {
+    content: "\f146";
+}
+.thsn-logisto-icon-worldwide-pin:before {
+    content: "\f147";
+}
+.thsn-logisto-icon-conveyor:before {
+    content: "\f148";
+}
+.thsn-logisto-icon-flag:before {
+    content: "\f149";
+}
+.thsn-logisto-icon-box-signals:before {
+    content: "\f14a";
+}
+.thsn-logisto-icon-balance:before {
+    content: "\f14b";
+}
+.thsn-logisto-icon-search-box:before {
+    content: "\f14c";
+}
+.thsn-logisto-icon-airplane-around-earth:before {
+    content: "\f14d";
+}
+.thsn-logisto-icon-hand:before {
+    content: "\f14e";
+}
+.thsn-logisto-icon-boxes:before {
+    content: "\f14f";
+}
+.thsn-logisto-icon-delivery-transportation-machine:before {
+    content: "\f150";
+}
+.thsn-logisto-icon-phone-auricular-and-clock-delivery-symbol:before {
+    content: "\f151";
+}
+.thsn-logisto-icon-paper-plane:before {
+    content: "\f152";
+}
+.thsn-logisto-icon-placeholder-1:before {
+    content: "\f153";
+}
+.thsn-logisto-icon-departures-1:before {
+    content: "\f154";
+}
+.thsn-logisto-icon-plane:before {
+    content: "\f155";
+}
+.thsn-logisto-icon-plane-1:before {
+    content: "\f156";
+}
+.thsn-logisto-icon-logistics-delivery-truck-in-movement:before {
+    content: "\f157";
+}
+.thsn-logisto-icon-packages-transportation-on-a-truck:before {
+    content: "\f158";
+}
+.thsn-logisto-icon-delivery-packages-on-a-trolley:before {
+    content: "\f159";
+}
+.thsn-logisto-icon-in-time:before {
+    content: "\f15a";
+}
+.thsn-logisto-icon-chronometer:before {
+    content: "\f15b";
+}
+.thsn-logisto-icon-triangular-arrows-sign-for-recycle:before {
+    content: "\f15c";
+}
